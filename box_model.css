@@ -1,0 +1,26 @@
+.myDiv1 {
+ height: 150px;
+ width: 150px;
+ /* border: thin solid #000000; */
+ border: 5px double #000000; 
+ padding: 10px;
+ margin: 25px;
+}
+
+.myDiv2 {
+ border: 5px solid #000000;
+ height: 150px;
+ width: 150px;
+ padding: 10px;
+ margin: 0px;
+ border-right: 1px solid #000000;
+ padding-right: 1px;
+ margin-right: 1px;
+}  
+
+.myDiv3 {
+ margin-top: 1px;
+ margin-right: 1px;
+ margin-bottom: 1px;
+ margin-left: 1px;
+}

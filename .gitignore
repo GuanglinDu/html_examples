@@ -1,0 +1,5 @@
+*~
+*.swp
+
+# Folder on mac OS
+.DS_Store

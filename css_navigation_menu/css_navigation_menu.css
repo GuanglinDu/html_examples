@@ -1,0 +1,69 @@
+/*#main-menu {
+	margin: 10px;
+	padding: 10px;
+	background-color: #FF0000
+}
+*/
+
+#main-menu ul {
+	margin: 0px;
+	padding: 10px;
+	background-color: #00FF00
+}
+ 
+#main-menu li {
+	list-style-type: none;
+	display: inline;
+	margin: 0 5px 0 5px;
+}
+ 
+#main-menu li a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+#main-menu div {
+	margin: 1px;
+	padding: 10px;
+	background-color: #FFFFFF
+}
+
+#main-menu div ul li a {
+	color: red;
+}
+
+#main-menu li a.active, #main-menu a:hover {
+	text-decoration: underline;
+	color: #D9CD60;
+}
+
+.pages {
+	margin: 0px;
+	padding: 0 0 20px 10px;
+	list-style: none;
+}
+ 
+.pages li {
+padding-left: 20px;
+background-image: url(../images/page-icon.gif);
+background-repeat: no-repeat;
+background-position: 0px;
+}
+ 
+.pages li a {
+color: #625412;
+}
+ 
+.page li a.active, .pages li a:hover {
+color: #95810A;
+}
+
+#footer a {
+color: FF66CC;
+font-size: 95%;
+}
+ 
+#footer a:hover {
+color: #E9D766;
+text-decoration: none;
+}
